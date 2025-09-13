@@ -48,10 +48,15 @@ The analysis revealed several key findings:
 The notebook generates the following output files:
 
 *   `asia_bivariate_2d.png`: 2D bivariate map of temperature and precipitation for Asia.
+     ![alt text](https://github.com/Stalinosmj/R_project-/blob/0e4dd5d25e023252c59ead5453ee0ad25773d854/asia__bivariate_2d.png "Asia bivariate")   
 *   `india_climate_bivariate.png`: 2D bivariate map of temperature and precipitation for India.
+     ![alt text](https://github.com/Stalinosmj/R_project-/blob/0e4dd5d25e023252c59ead5453ee0ad25773d854/india_climate_bivariate.png "India Climate bivariate")    
 *   `india_climate_zones.png`: Map of custom climate zones for India.
+     ![alt text](https://github.com/Stalinosmj/R_project-/blob/0e4dd5d25e023252c59ead5453ee0ad25773d854/india_climate_zones.png "India climate zones")   
 *   `india_climate_trends.png`: Plots showing annual temperature, precipitation, extreme heat events, and drought events trends for India.
+     ![alt text](https://github.com/Stalinosmj/R_project-/blob/0e4dd5d25e023252c59ead5453ee0ad25773d854/india_climate_trends.png "Indai climate trends")   
 *   `india_climate_projections.png`: Plots showing future temperature and precipitation projections for India under different climate change scenarios.
+     ![alt text](https://github.com/Stalinosmj/R_project-/blob/0e4dd5d25e023252c59ead5453ee0ad25773d854/india_climate_projections.png "india climate projection")   
 *   `india_climate_timeseries.csv`: CSV file containing the synthetic time series data for India.
 *   `india_climate_projections_2024_2030.csv`: CSV file containing the detailed future climate projections.
 *   `india_climate_analysis_results.RData`: RData file containing summary statistics and key findings from the analysis.
